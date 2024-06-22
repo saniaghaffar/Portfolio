@@ -6734,13 +6734,21 @@ button.bg-dark:focus {
   padding-left: 1rem !important; }
 
 .p-4 {
-  padding: 1.5rem !important;
-   /* margin-left: 200px;  */
+ padding: 1.5rem !important;
 }
 .p-4-1{
-  padding: 1.5rem !important;
-  margin-left: 200px; 
+  padding-top: 1.5rem !important;
+  padding-bottom: 1.5rem !important;
+   margin-left: 140px; 
+   margin-right: -200px;
+ 
 }
+/* .p-4-1 #form-1{
+  padding-top: 1.5rem !important;
+  padding-bottom: 1.5rem !important;
+   margin-left: 40px; 
+
+} */
 .pro p{
     text-align: center;
     margin-left: 100px;
